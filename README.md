@@ -1,8 +1,6 @@
 # travel-booking-platform
 Microservices-based travel booking platform with Flask, Docker, PostgreSQL, and a user-friendly frontend
-# Travel Booking Platform
 
-This project implements a **Travel Booking Platform** using a microservices architecture. It includes a backend with three services (Booking, Payment, and Notification), a PostgreSQL database, and a web-based frontend. All components are containerized using Docker, with orchestration managed by Docker Compose.
 
 ---
 
